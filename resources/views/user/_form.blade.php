@@ -10,3 +10,11 @@
     <label>Telefone</label>
     <input type="text" name="telefone" value="{{isset($funcionario->telefone)?$funcionario->telefone:''}}">
 </div>
+<div class="input-field">
+    <label>Email</label>
+    <input type="text" name="email" value="{{isset($funcionario->email)?$funcionario->email:''}}">
+</div>
+<div class="input-field">
+    <label>Senha</label>
+    <input type="text" name="password" value="{{isset($funcionario->password)?$funcionario->password:''}}">
+</div>
