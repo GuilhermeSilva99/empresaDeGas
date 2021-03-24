@@ -1,4 +1,4 @@
-## Sobre o projeto
+### Sobre o projeto
 
 - Laravel 8
 - PHP 7

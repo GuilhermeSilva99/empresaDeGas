@@ -16,7 +16,7 @@
     <nav>
         <div class="nav-wrapper ">
             <div class="container">
-                <a href="#!" class="brand-logo">Logo</a>
+                <a href="/" class="brand-logo">Logo</a>
                 <a href="#" data-target="mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     @if(Auth::guest())
